@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Farid Github Page
 
-You can use the [editor on GitHub](https://github.com/F4R1D23/F4R1D23.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am in [Conestoga College] (https://www.conestogac.on.ca/) of Applied Computer Science & IT
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
