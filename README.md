@@ -2,7 +2,7 @@
 
 My name is Farid. I'm a first-year student in the IT Innovation and Design program at [Conestoga College] (https://www.conestogac.on.ca/).
 
-### --- Conestoga College ---
+### Conestoga College
 299 Doon Valley Drive
 Kitchener, Ontario N2G 4M4, Canada
 Phone: 519-748-5220
