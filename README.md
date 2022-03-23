@@ -9,7 +9,7 @@ My name is Farid. I'm a first-year student in the IT Innovation and Design progr
 
 
 ## SOFT SKILL
-
+```markdown
 ###Graphic design
 - Adobe Photoshop
 - Adobe Illustrator
@@ -19,9 +19,9 @@ My name is Farid. I'm a first-year student in the IT Innovation and Design progr
 - Vegas Pro
 - Filmora
 - 
-**MS Office Suite
+###MS Office Suite
 
-
+```
 
 
 ## HARD SKILL
