@@ -10,30 +10,30 @@ My name is Farid. I'm a first-year student in the IT Innovation and Design progr
 
 ## SOFT SKILL
 ```markdown
-**Graphic design**
+**Graphic design
 - Adobe Photoshop
 - Adobe Illustrator
 
-**Video Editing**
+**Video Editing
 - Adobe Premire Pro
 - Vegas Pro
 - Filmora
 - 
-**MS Office Suite**
+**MS Office Suite
 
 ```
 
 
 ## HARD SKILL
 ```markdown
-**Web Development**
+**Web Development
 - HTML
 - CSS
 - JavaScript
 
-**Software Development**
-**C Sharp (C#)**
-**DataBase**
+**Software Development
+**C Sharp (C#)
+**DataBase
 - Access
 
 ```
@@ -43,4 +43,4 @@ My name is Farid. I'm a first-year student in the IT Innovation and Design progr
 ![](images/01.png)
 
 
-**Thanks for taking a look at my portfolio!**
+**Thanks for taking a look at my portfolio!
