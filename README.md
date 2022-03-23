@@ -1,4 +1,4 @@
-# Welcome to Farid Github Page
+# Farid Github Page
 
 My name is Farid. I'm a first-year student in the IT Innovation and Design program at [Conestoga College](https://www.conestogac.on.ca/).
 
