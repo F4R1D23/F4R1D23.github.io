@@ -44,4 +44,4 @@ DataBase
 ![](images/01.png)
 
 
-**Thanks for taking a look at my portfolio!
+Thanks for taking a look at my portfolio!
