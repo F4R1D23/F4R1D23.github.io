@@ -42,8 +42,8 @@ DataBase
 
 ## My College Projects
 
-![main/Farid.png]
-![main/Screenshot 2022-03-22 211230.png]
+![](images/01.png)
+
 
 
 
