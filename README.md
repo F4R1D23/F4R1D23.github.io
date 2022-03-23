@@ -10,11 +10,11 @@ My name is Farid. I'm a first-year student in the IT Innovation and Design progr
 
 ## SOFT SKILL
 
-**Graphic design
+###Graphic design
 - Adobe Photoshop
 - Adobe Illustrator
 
-**Video Editing
+###Video Editing
 - Adobe Premire Pro
 - Vegas Pro
 - Filmora
