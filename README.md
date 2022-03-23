@@ -9,6 +9,7 @@ My name is Farid. I'm a first-year student in the IT Innovation and Design progr
 
 
 ## SOFT SKILL
+```css
 Graphic design
 - Adobe Photoshop
 - Adobe Illustrator
@@ -17,8 +18,9 @@ Video Editing
 - Vegas Pro
 - Filmora
 MS Office Suite
+```
 
-
+```css
 ## HARD SKILL
 Web Development
 - HTML
@@ -28,6 +30,7 @@ Software Development
 - C#
 DataBase
 - Access
+```
 
 ## 
 
