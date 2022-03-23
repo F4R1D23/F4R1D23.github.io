@@ -1,14 +1,16 @@
-## Welcome to Farid Github Page
+# Welcome to Farid Github Page
 
 My name is Farid. I'm a first-year student in the IT Innovation and Design program at [Conestoga College](https://www.conestogac.on.ca/).
 
-### Conestoga College
+## Contact
 - 299 Doon Valley Drive
 - Kitchener, Ontario N2G 4M4, Canada
 - Phone: 519-748-5220
 
 
-### 
+## Soft Skill
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
