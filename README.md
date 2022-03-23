@@ -13,23 +13,29 @@ My name is Farid. I'm a first-year student in the IT Innovation and Design progr
 Graphic design
 - Adobe Photoshop
 - Adobe Illustrator
+
 Video Editing
 - Adobe Premire Pro
 - Vegas Pro
 - Filmora
+- 
 MS Office Suite
+
 ```
 
-```markdown
+
 ## HARD SKILL
+```markdown
 Web Development
 - HTML
 - CSS
 - JavaScript
+
 Software Development
 - C#
 DataBase
 - Access
+
 ```
 
 ## 
